@@ -10,6 +10,6 @@ int main()
     printf("Hello, World! \n%s",string);
   	
     
-    return 0;
+    return 0;  
 }
 
