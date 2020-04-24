@@ -1,1 +1,1 @@
-Here You Can See All C Languages Section Question's Solution of HackerRank 
+Check Out All Question Solution of C Programming Language Section.
